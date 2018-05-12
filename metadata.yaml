@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '6544'
     url: http://www.gutenberg.org/2009/agents/6544
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16220#Rambles-in-the-Mammoth-Cave-during-the-Year-1844By-a-Visiter
 gutenberg_bookshelf: Geology
 gutenberg_issued: '2005-07-06'
 gutenberg_type: Text
