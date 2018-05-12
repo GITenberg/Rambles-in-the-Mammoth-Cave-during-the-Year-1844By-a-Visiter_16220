@@ -1,0 +1,30 @@
+_repo: Rambles-in-the-Mammoth-Cave-during-the-Year-1844By-a-Visiter_16220
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bullitt, Alexander Clark
+    birthdate: 1807
+    deathdate: 1868
+    gutenberg_agent_id: '6544'
+    url: http://www.gutenberg.org/2009/agents/6544
+description: ''
+gutenberg_bookshelf: Geology
+gutenberg_issued: '2005-07-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16220'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bullitt, Alexander Clark, 1807-1868'
+- !lcsh 'Mammoth Cave (Ky.)'
+- !lcc 'F396'
+title: 'Rambles in the Mammoth Cave, during the Year 1844
+
+  By a Visiter'
+url: http://www.gutenberg.org/ebooks/16220
